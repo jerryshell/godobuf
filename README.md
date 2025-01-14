@@ -1,6 +1,6 @@
 # Godobuf
 
-Fork version of [oniksan/godobuf](https://github.com/oniksan/godobuf)
+Fork version of [bschug/godobuf](https://github.com/bschug/godobuf)
 
 - Optimised UI
 - Removed redundant code
